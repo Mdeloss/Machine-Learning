@@ -1,4 +1,4 @@
-# Mariano De Los Santos, Student ID 001523416
+# Mariano De Los Santos
 
 # import csv
 import pandas as pd
